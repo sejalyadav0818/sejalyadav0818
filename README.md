@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sejalyadav0818
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning NodeJS , Mysql , Sequelize , React js
+- 🌱 I’m currently learning NodeJS , MysqlWorkbench , Sequelize , Nest-Js , Prisma , React js
 - 📫 How to reach me -sejalyadav122@gmail.com
 
 <!---
