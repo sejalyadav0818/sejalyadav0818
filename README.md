@@ -15,4 +15,3 @@ You can click the Preview link to take a look at your changes.
 - https://github.com/sejalyadav0818/notes
 - https://github.com/sejalyadav0818/SQL-practice
 - https://github.com/sejalyadav0818/JS-practice
-- https://github.com/sejalyadav0818/Java-Basic
