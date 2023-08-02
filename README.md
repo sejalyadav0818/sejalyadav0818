@@ -4,24 +4,30 @@ I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experi
 
 ## About Me
 
-- 🎯 I'm currently focusing on Full Stack Development
-- 🧠 I’m learning NodeJS, MySQLWorkbench, Sequelize, Nest-Js, Prisma, ReactJS, Redux Toolkit, TypeScript, JavaScript
+- 🎯 I'm currently focusing on Full Stack Development.
+- 🧠 I’m deepening my knowledge on NodeJS, MySQLWorkbench, Sequelize, Nest-Js, Prisma, ReactJS, Redux Toolkit, TypeScript, JavaScript, Vs Code, Postman, Swagger.
 - 📫 Reach out to me at sejalyadav122@gmail.com
 
 ## What I'm Up To
 
 - 🔭 I’m currently working on several projects to improve my skills and build my portfolio.
-- 🌱 I’m currently learning and deepening my knowledge on NodeJS, MySQLWorkbench, Sequelize, Nest-Js, Prisma, ReactJS, Redux Toolkit, TypeScript, JavaScript
-- 💡 I'm exploring new technologies and learning how they can be leveraged to solve real-world problems.
+- 🌱 I’m exploring new technologies and learning how they can be leveraged to solve real-world problems.
 
 ## Tech Stack
 
-![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png "NodeJS") 
+![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png "NodeJS")  
+
 ![React](https://img.icons8.com/color/48/000000/react-native.png "React") 
+
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png "MySQL") 
+
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png "JavaScript") 
+
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png "TypeScript") 
+
 ![Redux](https://img.icons8.com/color/48/000000/redux.png "Redux") 
+
+![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VSCode")
 
 
 ## Personal Troubleshooting Guide - A Repository of Common Errors and Useful Commands
@@ -33,11 +39,10 @@ I created and maintain a personal GitHub repository where I document common erro
 - 🌐 [JavaScript Practice](https://github.com/sejalyadav0818/JS-practice)
 - 📚 [React Hooks](https://github.com/sejalyadav0818/React-Hooks)
 
-
 ## Connect with me
+
 Feel free to reach out to me if you want to discuss technology, development, or collaboration on a project.You can reach out to me via:
 
 [![Email](https://img.icons8.com/fluent/48/000000/email.png "Email")](mailto:sejalyadav122@example.com)
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/sejal-y-80988b1bb/)
-
