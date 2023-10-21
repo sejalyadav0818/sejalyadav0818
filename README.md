@@ -35,6 +35,7 @@ I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experi
 I created and maintain a personal GitHub repository where I document common errors I've encountered and their solutions, as well as useful commands that I frequently use. This repository serves as a quick reference guide for troubleshooting and streamlining common tasks, demonstrating my problem-solving skills and initiative.
 
 - 📝 [Common Errors and Useful Commands](https://github.com/sejalyadav0818/notes)
+- 📝 [My React Notes With project ](https://www.linkedin.com/posts/activity-7119326543914369024-45Pb?utm_source=share&utm_medium=member_desktop)
 - 💾 [SQL Practice](https://github.com/sejalyadav0818/SQL-practice)
 - 🌐 [JavaScript Practice](https://github.com/sejalyadav0818/JS-practice)
 - 📚 [React Hooks](https://github.com/sejalyadav0818/React-Hooks)
