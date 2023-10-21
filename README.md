@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 😃 !
 
 I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experiment with new technologies. 
 
