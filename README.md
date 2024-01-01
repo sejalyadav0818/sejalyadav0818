@@ -8,6 +8,9 @@ I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experi
 - 🧠 I’m deepening my knowledge on NodeJS, MySQLWorkbench, Sequelize, Nest-Js, Prisma, ReactJS, Redux Toolkit, TypeScript, JavaScript, Vs Code, Postman, Swagger.
 - 📫 Reach out to me at sejalyadav122@gmail.com
 
+## Check Out 
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/sejal-y-80988b1bb/)
+
 ## What I'm Up To
 
 - 🔭 I’m currently working on several projects to improve my skills and build my portfolio.
