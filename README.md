@@ -1,4 +1,4 @@
-# Hello there 😃 !
+# <i class="las la-laptop-code"> Hello there 😃 !</i> 
 
 I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experiment with new technologies. 
 
@@ -28,6 +28,10 @@ I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experi
 ![Redux](https://img.icons8.com/color/48/000000/redux.png "Redux") 
 
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "VSCode")
+
+![FiireBase](https://img.icons8.com/color/48/000000/firebase.png "firebase")
+
+![Mongodb](https://img.icons8.com/color/48/000000/mongodb.png "mongodb")
 
 
 ## Personal Troubleshooting Guide - A Repository of Common Errors and Useful Commands
