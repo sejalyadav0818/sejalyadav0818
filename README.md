@@ -1,6 +1,6 @@
-# <i class="las la-laptop-code"> Hello there 😃 !</i> 
+#  Hello there 👩🏻‍💻 !
 
-I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experiment with new technologies. 
+I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experiment with new technologies.
 
 ## About Me
 
