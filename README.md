@@ -2,8 +2,8 @@
 
 I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experiment with new technologies.
 
-  [![HitCount](https://hits.dwyl.com/sejalyadav0818/sejalyadav0818.svg?style=flat-square)](http://hits.dwyl.com/sejalyadav0818/sejalyadav0818)
-  
+
+  <img src="https://komarev.com/ghpvc/?username=sejalyadav0818&label=Profile%20views&color=0e75b6&style=flat" alt="sejalyadav0818" /> 
 ## About Me
 
 - 🎯 I'm currently focusing on Full Stack Development.
