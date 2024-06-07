@@ -1,13 +1,13 @@
 #  Hello there 👩🏻‍💻 !
 
-I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experiment with new technologies.
+I'm Sejal Yadav, a passionate Software Developer who loves to learn and experiment with new technologies.
 
 
   <img src="https://komarev.com/ghpvc/?username=sejalyadav0818&label=Profile%20views&color=0e75b6&style=flat" alt="sejalyadav0818" /> 
 ## About Me
 
-- 🎯 I'm currently focusing on Full Stack Development.
-- 🧠 I’m deepening my knowledge on NodeJS, MySQLWorkbench, Sequelize, Nest-Js, Prisma, ReactJS, Redux Toolkit, TypeScript, JavaScript, Vs Code, Postman, Swagger.
+- 🎯 I'm currently focusing on Software Development.
+- 🧠 I’m deepening my knowledge on NodeJS, MySQLWorkbench, Sequelize, Nest-Js, PWrisma, ReactJS, Redux Toolkit, TypeScript, JavaScript, Vs Code, Postman, Swagger.
 - 📫 Reach out to me at sejalyadav122@gmail.com
 
 ## Check Out 
@@ -38,6 +38,7 @@ I'm Sejal Yadav, a passionate Full Stack Developer who loves to learn and experi
 
 ![Mongodb](https://img.icons8.com/color/48/000000/mongodb.png "mongodb")
 
+![WhatsApp Business API](https://img.icons8.com/color/48/meta)
 
 ## Personal Troubleshooting Guide - A Repository of Common Errors and Useful Commands
 
