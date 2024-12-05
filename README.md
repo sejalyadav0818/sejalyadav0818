@@ -13,8 +13,7 @@ I'm Sejal Yadav, a passionate Software Developer who loves to learn and experime
 ## Check Out 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png "LinkedIn")](https://www.linkedin.com/in/sejal-y-80988b1bb/)
 
-## What I'm Up To
-
+## What I'm Up To <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="What I'm Up To" width="50"/>
 - 🔭 I’m currently working on several projects to improve my skills and build my portfolio.
 - 🌱 I’m exploring new technologies and learning how they can be leveraged to solve real-world problems.
 
