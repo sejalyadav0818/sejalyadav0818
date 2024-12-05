@@ -39,6 +39,11 @@ I'm Sejal Yadav, a passionate Software Developer who loves to learn and experime
 
 ![WhatsApp Business API](https://img.icons8.com/color/48/meta)
 
+
+## 📊 My GitHub Stats 🤓
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejalyadav0818&show_icons=true&hide=issues&hide_title=true)
+
+
 ## Personal Troubleshooting Guide - A Repository of Common Errors and Useful Commands
 
 I created and maintain a personal GitHub repository where I document common errors I've encountered and their solutions, as well as useful commands that I frequently use. This repository serves as a quick reference guide for troubleshooting and streamlining common tasks, demonstrating my problem-solving skills and initiative.
