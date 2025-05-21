@@ -49,6 +49,12 @@ I created and maintain a personal GitHub repository where I document common erro
 - 🌐 [JavaScript Practice](https://github.com/sejalyadav0818/JS-practice)
 - 📚 [React Hooks](https://github.com/sejalyadav0818/React-Hooks)
 
+## GitHub Contributions
+![GitHub contributions graph](https://ghchart.rshah.org/sejalyadav0818)
+
+🌱 328 contributions in the last year  
+🔧 Actively committing to 30+ repositories  
+
 ## Connect with me
 
 Feel free to reach out to me if you want to discuss technology, development, or collaboration on a project.You can reach out to me via:
